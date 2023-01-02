@@ -26,4 +26,177 @@
     margin-right: 2%;
 }
 
+.part2
+{
+    background-color: #2a9d8f;
+    display: flex;
+    color: white;
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    justify-content: center;
+    align-items: center;
+    
+}
+.textandbutton>*{
+    padding-left: 5%;
+}
+/* the above  */
 
+.textandbutton
+{
+display: flex;
+flex-direction: column;
+max-width: 30%;
+justify-content:space-between;
+align-items: center;
+font-size: large;
+
+
+
+}
+.button1
+{
+    background-color:#e9c46a ;
+    border-radius: 8px;
+    border: none;
+    padding:5px ;
+    width:20%;
+    height: 10%;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: large;
+
+}
+
+.image
+{
+    max-width: 250px;
+    min-height: 100px;
+    padding: 2%;
+    padding-left: 5%;
+    justify-self: flex-end;
+    
+    display: flex;
+    
+
+}
+img
+{
+    border-radius: 4px;
+    flex: 1 1 auto;
+}
+
+.part3
+{
+    background-color:white;
+    width: auto;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: #264653;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.item
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 120px;
+    padding: 5%;
+    
+
+}
+
+.box
+{
+    width: 120px;
+    height: 120px;
+    /* border: 2px; */
+    border: 4px solid #264653;
+    background-color:white;
+    border-radius: 4px;
+
+
+}
+.part4
+{
+    font-family:'Poppins', sans-serif; 
+    background-color: #2a9d8f;
+    color: white;
+    padding: 5%;
+    /* padding-right: 10%; */
+    font-size: x-large;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.author
+{
+    align-self: flex-end;
+}
+
+.part5
+{
+    font-family:'Poppins', sans-serif; 
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5%;
+    font-size: xx-large;
+    
+
+}
+
+.container
+{
+    /* background-color: #2a9d8f; */
+    color: #264653;
+    border: 4px solid #264653;
+    border-radius: 8px;
+    display: flex;
+    padding: 2%;
+    align-items: center;
+    justify-content: center;
+    width: 75%;
+    height: 40%;
+
+
+}
+
+.forbutton
+{
+    padding: 5%;
+    
+
+
+}
+
+.button2
+{
+    font-family:'Poppins', sans-serif; 
+    background-color: #264653;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size:xx-large;
+    min-width: 200px;
+    padding: 1%;
+    
+
+}
+
+.part6
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Poppins', sans-serif; 
+    background-color: #264653;
+    color: white;
+
+}
